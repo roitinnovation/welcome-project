@@ -1,0 +1,984 @@
+[
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 2,
+        "textSintetica": "",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 3,
+        "textSintetica": "",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 4,
+        "textSintetica": "",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 5,
+        "textSintetica": "",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 6,
+        "textSintetica": "",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 7,
+        "textSintetica": "1 - ATIVO",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 3,
+        "idSintetica": 8,
+        "textSintetica": "1.1 - CIRCULANTE",
+        "parentSintetica": 7
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 9,
+        "textSintetica": "1.1.01 - DISPON�?VEL",
+        "parentSintetica": 8
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 10,
+        "textSintetica": "1.1.01.002 - APLICAÇÕES DE LIQUIDEZ IMEDIATA",
+        "parentSintetica": 9
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 10,
+        "textSintetica": "1.1.01.002 - APLICAÇÕES DE LIQUIDEZ IMEDIATA",
+        "parentSintetica": 9,
+        "idAnalitica": "0010011000",
+        "textAnalitica": "Bradesco SA"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 10,
+        "textSintetica": "1.1.01.002 - APLICAÇÕES DE LIQUIDEZ IMEDIATA",
+        "parentSintetica": 9,
+        "idAnalitica": "0010011100",
+        "textAnalitica": "Caixa Economica Fed."
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 10,
+        "textSintetica": "1.1.01.002 - APLICAÇÕES DE LIQUIDEZ IMEDIATA",
+        "parentSintetica": 9,
+        "idAnalitica": "0010013000",
+        "textAnalitica": "Banco Arabe S/A"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 10,
+        "textSintetica": "1.1.01.002 - APLICAÇÕES DE LIQUIDEZ IMEDIATA",
+        "parentSintetica": 9,
+        "idAnalitica": "0010014000",
+        "textAnalitica": "Banco Itáu S/A"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 10,
+        "textSintetica": "1.1.01.002 - APLICAÇÕES DE LIQUIDEZ IMEDIATA",
+        "parentSintetica": 9,
+        "idAnalitica": "0010015000",
+        "textAnalitica": "Santander S/A"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 16,
+        "textSintetica": "1.1.01.001 - CAIXA GERAL",
+        "parentSintetica": 9
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 16,
+        "textSintetica": "1.1.01.001 - CAIXA GERAL",
+        "parentSintetica": 9,
+        "idAnalitica": "0010010000",
+        "textAnalitica": "Caixa Geral"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 18,
+        "textSintetica": "1.1.02 - CRÉDITOS",
+        "parentSintetica": 8
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 19,
+        "textSintetica": "1.1.02.001 - DUPLICATAS RECEBER",
+        "parentSintetica": 18
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 19,
+        "textSintetica": "1.1.02.001 - DUPLICATAS RECEBER",
+        "parentSintetica": 18,
+        "idAnalitica": "0010110000",
+        "textAnalitica": "Duplicatas a receber"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 19,
+        "textSintetica": "1.1.02.001 - DUPLICATAS RECEBER",
+        "parentSintetica": 18,
+        "idAnalitica": "0010111000",
+        "textAnalitica": "Crédito Empregados"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 22,
+        "textSintetica": "1.1.02.002 - IMPOSTOS A RECUPERAR",
+        "parentSintetica": 18
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 22,
+        "textSintetica": "1.1.02.002 - IMPOSTOS A RECUPERAR",
+        "parentSintetica": 18,
+        "idAnalitica": "0010112000",
+        "textAnalitica": "ICMS a recuperar"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 22,
+        "textSintetica": "1.1.02.002 - IMPOSTOS A RECUPERAR",
+        "parentSintetica": 18,
+        "idAnalitica": "0010113000",
+        "textAnalitica": "CSLL a recuperar"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 22,
+        "textSintetica": "1.1.02.002 - IMPOSTOS A RECUPERAR",
+        "parentSintetica": 18,
+        "idAnalitica": "0010114000",
+        "textAnalitica": "IRPJ a recuperar"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 22,
+        "textSintetica": "1.1.02.002 - IMPOSTOS A RECUPERAR",
+        "parentSintetica": 18,
+        "idAnalitica": "0010115000",
+        "textAnalitica": "PIS a recuperar"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 22,
+        "textSintetica": "1.1.02.002 - IMPOSTOS A RECUPERAR",
+        "parentSintetica": 18,
+        "idAnalitica": "0010116000",
+        "textAnalitica": "COFINS  a recuperar"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 28,
+        "textSintetica": "1.1.04 - OUTROS ATIVOS CIRCULANTE",
+        "parentSintetica": 8
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 29,
+        "textSintetica": "1.1.04.001 - ADIANTAMENTO A FUNCIONARIOS",
+        "parentSintetica": 28
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 29,
+        "textSintetica": "1.1.04.001 - ADIANTAMENTO A FUNCIONARIOS",
+        "parentSintetica": 28,
+        "idAnalitica": "0011500313",
+        "textAnalitica": "ADIANTAMENTOS DE FÉR"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 29,
+        "textSintetica": "1.1.04.001 - ADIANTAMENTO A FUNCIONARIOS",
+        "parentSintetica": 28,
+        "idAnalitica": "0011625010",
+        "textAnalitica": "PARTES RELACIONADAS"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 32,
+        "textSintetica": "1.1.05 - CLIENTES",
+        "parentSintetica": 8
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 33,
+        "textSintetica": "1.1.05.001 - CARTÕES DE DÉBITO E CRÉDITO",
+        "parentSintetica": 32
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 33,
+        "textSintetica": "1.1.05.001 - CARTÕES DE DÉBITO E CRÉDITO",
+        "parentSintetica": 32,
+        "idAnalitica": "0011425002",
+        "textAnalitica": "CARTÕES CIELO A RECE"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 35,
+        "textSintetica": "1.1.06 - ESTOQUE",
+        "parentSintetica": 8
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 36,
+        "textSintetica": "1.1.06.001 - OFFSET",
+        "parentSintetica": 35
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 36,
+        "textSintetica": "1.1.06.001 - OFFSET",
+        "parentSintetica": 35,
+        "idAnalitica": "0001150505",
+        "textAnalitica": "Conta Compr (Offset)"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 38,
+        "textSintetica": "1.1.06.002 - ESTOQUE ATIVO",
+        "parentSintetica": 35
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 38,
+        "textSintetica": "1.1.06.002 - ESTOQUE ATIVO",
+        "parentSintetica": 35,
+        "idAnalitica": "0001150509",
+        "textAnalitica": "CONTA COMPRA ATIVO"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 40,
+        "textSintetica": "1.1.06.003 - COMPRAS ESTOQUE",
+        "parentSintetica": 35
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 40,
+        "textSintetica": "1.1.06.003 - COMPRAS ESTOQUE",
+        "parentSintetica": 35,
+        "idAnalitica": "0001150707",
+        "textAnalitica": "Conta Compra Roit"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 42,
+        "textSintetica": "1.1.06.004 - TRANSITÓRIAS",
+        "parentSintetica": 35
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 42,
+        "textSintetica": "1.1.06.004 - TRANSITÓRIAS",
+        "parentSintetica": 35,
+        "idAnalitica": "0001150910",
+        "textAnalitica": "Conta Trans. EM/EF"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 42,
+        "textSintetica": "1.1.06.004 - TRANSITÓRIAS",
+        "parentSintetica": 35,
+        "idAnalitica": "0001150909",
+        "textAnalitica": "Conta Trans. EM/EF"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 45,
+        "textSintetica": "1.1.07 - ATIVOS",
+        "parentSintetica": 8
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 46,
+        "textSintetica": "1.1.07.001 - IMOBILIZADOS",
+        "parentSintetica": 45
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 46,
+        "textSintetica": "1.1.07.001 - IMOBILIZADOS",
+        "parentSintetica": 45,
+        "idAnalitica": "0010200000",
+        "textAnalitica": "Estoque Mat.Inf."
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 46,
+        "textSintetica": "1.1.07.001 - IMOBILIZADOS",
+        "parentSintetica": 45,
+        "idAnalitica": "0010210000",
+        "textAnalitica": "Estoque Mat.Escr."
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 46,
+        "textSintetica": "1.1.07.001 - IMOBILIZADOS",
+        "parentSintetica": 45,
+        "idAnalitica": "0010210010",
+        "textAnalitica": "Estoque Ativos"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 46,
+        "textSintetica": "1.1.07.001 - IMOBILIZADOS",
+        "parentSintetica": 45,
+        "idAnalitica": "0010230000",
+        "textAnalitica": "ESTOQUE COMER."
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 2,
+        "idSintetica": 51,
+        "textSintetica": "2 - PASSIVO",
+        "parentSintetica": 1
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 3,
+        "idSintetica": 52,
+        "textSintetica": "2.1 - CIRCULANTE",
+        "parentSintetica": 51
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 53,
+        "textSintetica": "2.1.01  DUPLICATAS",
+        "parentSintetica": 52
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 54,
+        "textSintetica": "2.1.01.01.0001 - teste",
+        "parentSintetica": 53
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 6,
+        "idSintetica": 55,
+        "textSintetica": "2.1.01.001 - FORNECEDORES",
+        "parentSintetica": 54
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 6,
+        "idSintetica": 55,
+        "textSintetica": "2.1.01.001 - FORNECEDORES",
+        "parentSintetica": 54,
+        "idAnalitica": "0020009999",
+        "textAnalitica": "CONTA CONC.FORNE."
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 6,
+        "idSintetica": 55,
+        "textSintetica": "2.1.01.001 - FORNECEDORES",
+        "parentSintetica": 54,
+        "idAnalitica": "0020010000",
+        "textAnalitica": "Forn.Roit Curitiba"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 6,
+        "idSintetica": 55,
+        "textSintetica": "2.1.01.001 - FORNECEDORES",
+        "parentSintetica": 54,
+        "idAnalitica": "0020010001",
+        "textAnalitica": "Dif.Cam.Forn"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 59,
+        "textSintetica": "2.1.02 - OBRIGAÇÕES",
+        "parentSintetica": 52
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 60,
+        "textSintetica": "2.1.02.001 - TRIBUTOS A RECOLHER",
+        "parentSintetica": 59
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 60,
+        "textSintetica": "2.1.02.001 - TRIBUTOS A RECOLHER",
+        "parentSintetica": 59,
+        "idAnalitica": "0020205061",
+        "textAnalitica": "ICMS DIFAL A RECOLHE"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 60,
+        "textSintetica": "2.1.02.001 - TRIBUTOS A RECOLHER",
+        "parentSintetica": 59,
+        "idAnalitica": "0020120000",
+        "textAnalitica": "ICMS a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 60,
+        "textSintetica": "2.1.02.001 - TRIBUTOS A RECOLHER",
+        "parentSintetica": 59,
+        "idAnalitica": "0020110000",
+        "textAnalitica": "PIS a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 60,
+        "textSintetica": "2.1.02.001 - TRIBUTOS A RECOLHER",
+        "parentSintetica": 59,
+        "idAnalitica": "0020100000",
+        "textAnalitica": "COFINS a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 65,
+        "textSintetica": "2.1.03 - OBRIGAÇÕES SOCIAIS TRABALHISTAS",
+        "parentSintetica": 52
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020130000",
+        "textAnalitica": "IRPJ a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020140000",
+        "textAnalitica": "CSLL a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020150000",
+        "textAnalitica": "IRRF a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020201544",
+        "textAnalitica": "IRRF-FOLHA A RECOLHE"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020201546",
+        "textAnalitica": "IRRF A RECOLHER"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020201550",
+        "textAnalitica": "SIMPLES NACIONAL A R"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020201582",
+        "textAnalitica": "ISS-RET A RECOLHER"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020201659",
+        "textAnalitica": "INSS A RECOLHER"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020210000",
+        "textAnalitica": "INSS a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 66,
+        "textSintetica": "2.1.02.002 - TRIBUTOS RETIDOS A RECOLHER",
+        "parentSintetica": 65,
+        "idAnalitica": "0020220000",
+        "textAnalitica": "FGTS a recolher"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 3,
+        "idSintetica": 77,
+        "textSintetica": "2.2 - PATRIMONIO LIQUIDO",
+        "parentSintetica": 51
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 78,
+        "textSintetica": "2.2.01 - CAPITAL SOCIAL INTEGRALIZADO",
+        "parentSintetica": 77
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 79,
+        "textSintetica": "2.2.01.001 - CAPITAL SOCIAL",
+        "parentSintetica": 78
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 79,
+        "textSintetica": "2.2.01.001 - CAPITAL SOCIAL",
+        "parentSintetica": 78,
+        "idAnalitica": "0022000000",
+        "textAnalitica": "Capital social"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 81,
+        "textSintetica": "2.2.02 - LUCROS",
+        "parentSintetica": 77
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 82,
+        "textSintetica": "2.2.02.001 - LUCROS DO EXERCICIO",
+        "parentSintetica": 81
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 82,
+        "textSintetica": "2.2.02.001 - LUCROS DO EXERCICIO",
+        "parentSintetica": 81,
+        "idAnalitica": "0022025017",
+        "textAnalitica": "RESERVA DE LUCROS"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0023010000",
+        "textAnalitica": "Bancos conta cobranç"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0023000000",
+        "textAnalitica": "Veículos Segurados"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022050000",
+        "textAnalitica": "Res. de lucros real."
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022040000",
+        "textAnalitica": "Reservas de capital"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022030000",
+        "textAnalitica": "Prejuízos acumulados"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022020000",
+        "textAnalitica": "Lucros acumulados"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022010000",
+        "textAnalitica": "Lucro do Exercicio"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022002517",
+        "textAnalitica": "AJUSTES DE EXERC�?CIO"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 84,
+        "textSintetica": "2.2.02.002 - LUCROS ACUMULADOS",
+        "parentSintetica": 77,
+        "idAnalitica": "0022002515",
+        "textAnalitica": "LUCROS ACUMULADOS"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 3,
+        "idSintetica": 94,
+        "textSintetica": "4.1 - RECEITAS",
+        "parentSintetica": 51
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 95,
+        "textSintetica": "4.1.1 - RECEITA BRUTA",
+        "parentSintetica": 94
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 96,
+        "textSintetica": "4.1.1.001 - VENDA DE MERCADORIA",
+        "parentSintetica": 95
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 96,
+        "textSintetica": "4.1.1.001 - VENDA DE MERCADORIA",
+        "parentSintetica": 95,
+        "idAnalitica": "0040002859",
+        "textAnalitica": "VENDAS DE MERCADORIA"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 96,
+        "textSintetica": "4.1.1.001 - VENDA DE MERCADORIA",
+        "parentSintetica": 95,
+        "idAnalitica": "0040102629",
+        "textAnalitica": "VENDAS DE MERCADORIA"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 96,
+        "textSintetica": "4.1.1.001 - VENDA DE MERCADORIA",
+        "parentSintetica": 95,
+        "idAnalitica": "0041020000",
+        "textAnalitica": "Venda Imobilizado"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 96,
+        "textSintetica": "4.1.1.001 - VENDA DE MERCADORIA",
+        "parentSintetica": 95,
+        "idAnalitica": "0042020000",
+        "textAnalitica": "Venda a vista"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 96,
+        "textSintetica": "4.1.1.001 - VENDA DE MERCADORIA",
+        "parentSintetica": 95,
+        "idAnalitica": "0042030000",
+        "textAnalitica": "Venda a prazo"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 4,
+        "idSintetica": 102,
+        "textSintetica": "4.1.1 - RECETIAS OPERACIONAIS",
+        "parentSintetica": 94
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 103,
+        "textSintetica": "4.1.1.001 - RECEITAS FINANCEIRAS",
+        "parentSintetica": 102
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 103,
+        "textSintetica": "4.1.1.001 - RECEITAS FINANCEIRAS",
+        "parentSintetica": 102,
+        "idAnalitica": "0040000000",
+        "textAnalitica": "Descontos obtidos"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 103,
+        "textSintetica": "4.1.1.001 - RECEITAS FINANCEIRAS",
+        "parentSintetica": 102,
+        "idAnalitica": "0040010000",
+        "textAnalitica": "Juros ativos"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 103,
+        "textSintetica": "4.1.1.001 - RECEITAS FINANCEIRAS",
+        "parentSintetica": 102,
+        "idAnalitica": "0040020000",
+        "textAnalitica": "Aplic.Financeiras"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 103,
+        "textSintetica": "4.1.1.001 - RECEITAS FINANCEIRAS",
+        "parentSintetica": 102,
+        "idAnalitica": "0042004339",
+        "textAnalitica": "RENDIMENTOS"
+    },
+    {
+        "idBalance": "ZR01",
+        "textBalance": "Balanço Roit V1",
+        "nivel": 5,
+        "idSintetica": 103,
+        "textSintetica": "4.1.1.001 - RECEITAS FINANCEIRAS",
+        "parentSintetica": 102,
+        "idAnalitica": "0042004855",
+        "textAnalitica": "(-) REEMBOLSO"
+    }
+]

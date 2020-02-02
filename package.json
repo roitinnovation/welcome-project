@@ -1,0 +1,37 @@
+{
+  "name": "walcome-project",
+  "version": "0.0.1",
+  "description": "ROIT Walcome project",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "gulp scripts && node dist/index.js",
+    "build": "gulp scripts"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "@types/body-parser": "0.0.33",
+    "@types/cors": "^2.8.3",
+    "@types/debug": "0.0.29",
+    "@types/express": "^4.0.33",
+    "@types/morgan": "^1.7.32",
+    "@types/node": "^6.0.46",
+    "debug": "^2.2.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@overnightjs/core": "^1.6.9",
+    "@overnightjs/logger": "^1.1.9",
+    "@roit/roit-model-mapper": "0.0.2",
+    "@roit/roit-response-handler": "0.0.8",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "express": "^4.17.1",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.1",
+    "md5": "^2.2.1",
+    "node-random-name": "^1.0.1",
+    "roit-environment": "^1.0.20"
+  }
+}
